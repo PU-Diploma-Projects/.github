@@ -6,8 +6,8 @@ Plovdiv University "Paisii Hilendarski"
 
 ## Projects
 
-- Planit, 2026
-- SoftLearner, 2026
+- [Planit](https://github.com/PU-Diploma-Projects/Planit---diplomna-rabota), 2026  
+- [SoftLearner](https://github.com/PU-Diploma-Projects/softlearner), 2026  
 
 ## Purpose
 
