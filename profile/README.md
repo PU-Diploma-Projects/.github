@@ -8,7 +8,8 @@ Plovdiv University "Paisii Hilendarski"
 
 - [Planit](https://github.com/PU-Diploma-Projects/Planit---diplomna-rabota)  
 - [SoftLearner](https://github.com/PU-Diploma-Projects/softlearner)
-- [Lingua-flow](https://github.com/PU-Diploma-Projects/lingua-flow)  
+- [Lingua-flow](https://github.com/PU-Diploma-Projects/lingua-flow)
+- [BarberShop](https://github.com/PU-Diploma-Projects/BarberShop)  
 
 ## Purpose
 
