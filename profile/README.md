@@ -10,7 +10,8 @@ Plovdiv University "Paisii Hilendarski"
 - [SoftLearner](https://github.com/PU-Diploma-Projects/softlearner)
 - [Lingua-flow](https://github.com/PU-Diploma-Projects/lingua-flow)
 - [BarberShop](https://github.com/PU-Diploma-Projects/BarberShop)
-- [SWMS](https://github.com/PU-Diploma-Projects/SWMS)  
+- [SWMS](https://github.com/PU-Diploma-Projects/SWMS)
+- [IoTPlantMonitoring](https://github.com/georgibb/IoTPlantMonitoring)
 
 ## Purpose
 
