@@ -11,7 +11,7 @@ Plovdiv University "Paisii Hilendarski"
 - [Lingua-flow](https://github.com/PU-Diploma-Projects/lingua-flow)
 - [BarberShop](https://github.com/PU-Diploma-Projects/BarberShop)
 - [SWMS](https://github.com/PU-Diploma-Projects/SWMS)
-- [IoTPlantMonitoring](https://github.com/georgibb/IoTPlantMonitoring)
+- [PlantPal](https://github.com/georgibb/IoTPlantMonitoring)
 
 ## Purpose
 
